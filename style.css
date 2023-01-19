@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;500&display=swap');
-main {
+.main-container {
     margin: 0% 6%;
     font-family: 'Roboto', sans-serif
 }
@@ -158,5 +158,44 @@ h3 {
 }
 .firstrow {
     display: flex;
-    margin-bottom: 1%px;
+    margin-bottom: -5%;
+}
+.colorblue {
+    height: 780px;
+    margin-top: 50px;
+    background-color: #EFEFEF;
+}
+.goodnews {
+    margin: 0 9%;
+}
+.sub-news {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 781px;
+}
+.sub-news p {
+    margin: 5%;
+}
+.statistics {
+    padding-top: 10%;
+    padding-bottom: 3%;
+}
+#girlimage {
+    margin-left: 10%;
+    margin-bottom: 3%;
+}
+#fbook {
+    margin-left: 20px;
+}
+.imageblock {
+    display: flex;
+}
+.ekatirina {
+    margin-left: 3%;
+}
+.colorpink {
+    margin-top: -12%;
+    background-color: #9DC9C8;
 }
