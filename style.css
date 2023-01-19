@@ -74,10 +74,10 @@ h2 {
     font-family: 'Roboto Slab', serif;
 }
 .movies {
-    width: 50%;
+    width: 57%;
 }
 .movietext1 {
-
+    font-size: 24px;
     margin-bottom: 40px;
 }
 .middle {
@@ -95,4 +95,41 @@ h2 {
     margin-top: 280px;
     position: relative;
 
+}
+.averagebox {
+    display: flex;
+    margin-top: 4%;
+}
+#director {
+    position: absolute;
+    z-index: 1;
+}
+#shadow3 {
+    position: relative;
+    margin-top: 185px;
+    margin-left: 35px;
+}
+.period {
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-right: 7%;
+}
+h4 {
+    font-size: 25px;
+    margin-left: 10px;
+}
+.period p{
+    font-size: 18px;
+}
+.webinar {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.webinar h4 {
+    color: #1E4681;  
+}
+.webinar div {
+    width: 31%;
 }
