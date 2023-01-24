@@ -280,6 +280,220 @@ h3 {
         width: 65px;
         height: 39px;
     }
-    
-    
+    .date-p {
+        font-size: 12px;
+    }
+    .globe, .time, .calendar {
+        width: 12.74px;
+        height: 12.16px;
+        margin-top: 12px;
+    }
+    h1 {
+        font-size: 46px;
+        margin-top: -5px;
+        margin-bottom: 5px;
+        width: 360px;
+        font-family: 'Roboto Slab', serif;
+    }
+    .lessons {
+        width: 264px;
+        font-size: 12px;
+    }
+    .sittingman {
+        margin-left: 80px;
+        width: 176px;
+        height: 206px;
+        position: absolute;
+        z-index: 1;
+    }
+    .shadow {
+        position: relative;
+        margin-left: 100px;
+        margin-top: 200px;
+        width: 42%;
+    }
+    .blueborder { 
+        background-color: #1E4681;
+        width: 280px;
+        height: 115px;
+        margin-left: 170px;
+        margin-top: 70px;
+    }
+    .proverbtext {
+        color: white;
+        padding-left: 15px;
+        padding-top: 15px;
+        font-size: 14px;
+        margin-bottom: -5px;
+    }
+    .author {
+        color: rgb(255, 255, 255);
+        font-size: 12px;
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 15px;
+    }
+    h2 {
+        font-size: 32px;
+        font-family: 'Roboto Slab', serif;
+    }
+    .movietext1 {
+        width: 81%;
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    #cameraman {
+        width: 181px;
+        height: 182px;
+        position: absolute;
+        z-index: 1; 
+        margin-left: 110px;
+    }
+    #shadow {
+        width: 55%;
+        margin-left: 85px;
+        margin-top: 165px;
+        position: relative;
+    }
+    #director {
+        width: 134px;
+        height: 117px;
+        position: absolute;
+        z-index: 1;
+    }
+    #shadow3 {
+        width: 85%;
+        position: relative;
+        margin-top: 105px;
+        margin-left: 15px;
+    }
+    h4 {
+        font-size: 15px;
+        margin-left: -1px;
+        margin-bottom: -5px;
+    }
+    .period p{
+        font-size: 11px;
+        width: 60%;
+        margin-right: 120px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    .webinar div {
+        width: 21%;
+    }
+    .webinar p {
+        font-size: 11px;
+    }
+    .webinar h4 {
+        font-size: 15px;
+    }
+    ul {
+        font-size: 14px;
+        margin-left: -20px;
+    }
+    .borders {
+        box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
+        border-radius: 17.375px;
+        width: 231.09px;
+        height: 189.97px;
+    }
+    .borders img {
+        width: 101%;
+    }
+    h3 {
+        font-size: 17px;
+    }
+    .times {
+        font-size: 14px;
+    }
+    .firstrow {
+        margin-left: -30px;
+    }
+    .bluecontainer {
+        height: 450px;
+        background-color: #EFEFEF;
+    }
+    .sub-news {
+        border: 1px solid rgb(255, 255, 255);
+        background-color: #FFFFFF;
+        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 30px;
+        width: 458px;
+        height: 261px;
+    }
+    .statistics {
+        padding-top: 5%;
+    }
+    .sub-news p {
+        width: 415px;
+        font-size: 12px;
+    }
+    #girlimage {
+        width: 60%;
+    }
+    .ekatirina {
+        margin-left: -60px;
+    }
+    #fbook {
+        width: 12%;
+    }
+    .pinkcontainer {
+        height: 451px;
+    }
+    .lastblock {
+        margin-top: -50px;
+    }
+    .lastblock p {
+        margin-bottom: 1%;
+        font-size: 14px;
+    }
+    #rubl {
+        font-size: 46px;
+    }
+    .headline-p {
+        font-weight: 400;
+        font-size: 10px;
+    }
+    h6 {
+        margin-bottom: 50px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .blackcontainer {
+        height: 225px;
+    }
+    .sinxrologo img { 
+        margin-left: -30px;
+        width: 67px;
+        height: 40px;
+    } 
+    #lastp {
+        margin-top: 50%;
+        color: rgb(255, 255, 255);
+    }   
+    .logos {
+        margin-left: -25px;
+        margin-top: -10px;
+    }
+    .logos img {
+        width: 19px;
+        height: 19px;
+    }
+    .mail p{
+        font-size: 14px;
+        margin-top: 30px ;
+    }
+    #mailname {
+        margin-top: -5px;
+    }
+    #phonelogo {
+        width: 16px;
+        height: 16px;
+    }
+    #maillogo {
+        width: 16px;
+        height: 11px;
+    }
 }
